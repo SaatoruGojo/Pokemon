@@ -5,5 +5,6 @@ This is a simple Flask web application that allows users to retrieve information
 ## Screenshots
 
 ![Pokemon App Screenshot](home.png)
+![Pokemon App Screenshot](pokemon.png)
 
 
